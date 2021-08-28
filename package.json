@@ -1,0 +1,36 @@
+{
+	"name": "birthday-game",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/keithtxw/birthday-game.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/keithtxw/birthday-game/issues"
+	},
+	"homepage": "https://github.com/keithtxw/birthday-game#readme",
+	"dependencies": {
+		"next": "^11.1.0",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
+		"react-icons": "^4.2.0",
+		"styled-components": "^5.3.1",
+		"typescript": "^4.4.2"
+	},
+	"devDependencies": {
+		"@types/react": "^17.0.19",
+		"@types/react-dom": "^17.0.9",
+		"@types/styled-components": "^5.1.13",
+		"babel-plugin-macros": "^3.1.0",
+		"babel-plugin-styled-components": "^1.13.2"
+	}
+}
