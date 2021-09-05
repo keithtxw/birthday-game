@@ -13,7 +13,7 @@ const Home = () => {
 	return (
 		<Container>
 			<Image src="/img/deal-no-deal-bg.jpg" />
-			<Title>Yi Yi Birthday Special</Title>
+			<Title>Ethan Birthday Special</Title>
 			<Button onClick={handleClick}>Begin</Button>
 		</Container>
 	);
